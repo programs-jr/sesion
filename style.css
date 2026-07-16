@@ -88,7 +88,7 @@ body {
         }
         100% {
             width: 90%;
-            height: 90%;
+            height: 80%;
             grid-template-columns: repeat(5,1fr);
             grid-template-rows: 50px repeat(5,1fr);;
         }
