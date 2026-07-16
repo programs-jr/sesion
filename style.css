@@ -76,7 +76,7 @@ body {
     @keyframes transformar {
         0% {
             width: 90%;
-            height: 60%;
+            height: 70%;
             grid-template-columns: repeat(6,1fr);
             grid-template-rows: 50px repeat(5,1fr);;
         }
@@ -187,15 +187,7 @@ body {
         color: #333;
         grid-column: 1/7;
         grid-row: 9/11;
-    }
-
-    .conm {
-        width: 100vw;
-        height: 100vh;
-        display: grid;
-        grid-template-columns: repeat(5,1fr);
-        grid-template-rows: 10px 70px repeat(4,1fr) 40px;
-    }
+    }
     
     .barra {
         grid-column: 1/6;
@@ -239,7 +231,7 @@ body {
         width: 90%;
         grid-column: 1/6;
         grid-row: 3/7;
-        height: 60%;
+        height: 70%;
         padding: 0 0 10px 0;
         justify-self: center;
         align-self: center;
