@@ -170,7 +170,7 @@ body {
     
     .terminos, .condiciones {
         width: 80%;
-        font-size: 14px;
+        font-size: 1.5rem;
         font-family: cursive;
         text-align: justify;
         justify-self: center;
@@ -533,7 +533,7 @@ body {
     
     .terminos, .condiciones {
         width: 80%;
-        font-size: 30px;
+        font-size: 1.5rem;
         font-family: cursive;
         text-align: justify;
         justify-self: center;
@@ -918,7 +918,7 @@ body {
     
     .terminos, .condiciones {
         width: 80%;
-        font-size: 13px;
+        font-size: 1.5rem;
         font-family: cursive;
         text-align: justify;
         justify-self: center;
