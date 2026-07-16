@@ -129,9 +129,9 @@ body {
     }
 
     .term {
-        grid-column: 1/4;
+        grid-column: 1/5;
         grid-row: 1/8;
-        width: 110%;
+        width: 100%;
         display: grid;
         grid-template-columns: repeat(6, 1fr);
         grid-template-rows: 30px repeat(2,70px) repeat(8,1fr);
