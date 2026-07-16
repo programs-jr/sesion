@@ -142,6 +142,7 @@ body {
         justify-self: center;
         align-self: center;
         transform: translateX(-110%);
+        position: absolute;
     }
 
     .terminos1 {
