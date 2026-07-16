@@ -129,7 +129,7 @@ body {
     }
 
     .term {
-        grid-column: 1/5;
+        grid-column: 1/6;
         grid-row: 1/8;
         width: 100%;
         display: grid;
