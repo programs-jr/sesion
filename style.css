@@ -76,7 +76,7 @@ body {
     @keyframes transformar {
         0% {
             width: 90%;
-            height: 70%;
+            height: 60%;
             grid-template-columns: repeat(6,1fr);
             grid-template-rows: 50px repeat(5,1fr);;
         }
@@ -239,7 +239,7 @@ body {
         width: 90%;
         grid-column: 1/6;
         grid-row: 3/7;
-        height: 70%;
+        height: 60%;
         padding: 0 0 10px 0;
         justify-self: center;
         align-self: center;
