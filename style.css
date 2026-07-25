@@ -837,7 +837,7 @@ body {
         }
         100% {
             width: 60%;
-            height: 130%;
+            height: 100%;
             grid-template-columns: repeat(5,1fr);
             grid-template-rows: 50px repeat(5,1fr);;
         }
@@ -911,7 +911,7 @@ body {
     
     .terminos, .condiciones {
         width: 80%;
-        font-size: 1.5rem;
+        font-size: 22px;
         font-family: cursive;
         text-align: justify;
         justify-self: center;
